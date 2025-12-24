@@ -4,7 +4,7 @@
 the platform focuses on a **Direct-to-WhatsApp** booking strategy, allowing users to browse services and initiate orders with a single click.
 
 ##  Business Highlights
-* **WhatsApp Integration:** Optimized "Click-to-Chat" buttons that pre-fill order details for the customer, reducing friction and increasing conversion rates.
+* **WhatsApp Integration:** Optimized "Click-to-Chat" buttons .
 * **Service Showcase:** High-impact visual sections for Wash, Dry Cleaning, and Ironing services.
 * **Mobile-First Design:** Engineered using Bootstrap 5 to ensure a perfect experience on smartphones.
 
