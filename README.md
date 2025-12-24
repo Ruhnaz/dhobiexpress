@@ -17,7 +17,10 @@ the platform focuses on a **Direct-to-WhatsApp** booking strategy, allowing user
 
 | Full Layout (Preview) 
 | :---: | :---: |
-| <img src="screenshots/home_page_mac.png" />
+<div style="height: 400px; overflow-y: auto; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="screenshots/home_page_mac.png" style="width: 100%; display: block;">
+</div>
+
 
 ## Project Credits
 **Lead Developer:** Ruhnaz  
