@@ -13,6 +13,12 @@ the platform focuses on a **Direct-to-WhatsApp** booking strategy, allowing user
 * **Framework:** Bootstrap 5 (Responsive UI)
 * **Communication:** WhatsApp Business API Integration
 
+## 🎨 Design Overview
+
+| Full Layout (Preview) | Key Sections |
+| :---: | :---: |
+| <img src="screenshots/home_page_mac.png" width="200" />
+
 ## Project Credits
 **Lead Developer:** Ruhnaz  
 **Client:** DhobiExpress Official  
