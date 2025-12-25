@@ -17,7 +17,7 @@ the platform focuses on a **Direct-to-WhatsApp** booking strategy, allowing user
 
 | Full Layout (Preview) 
 | :---: | :---: |
-<div style="height: 400px; overflow-y: auto; border: 1px solid #ddd; border-radius: 8px;">
+<div style="height: 200px; overflow-y: auto; border: 1px solid #ddd; border-radius: 8px;">
   <img src="screenshots/home_page_mac.png" style="width: 50%; display: block;">
 </div>
 
